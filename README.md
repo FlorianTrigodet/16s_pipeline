@@ -14,12 +14,7 @@ I used this pipeline for 16s analysis during my master and thesis
 6. [Complete table with OTUs and tax](#otu_table)
 
 ## Data description <a name="data"></a>
-We are interested in the bacterial communbity associated with the ennoblement of stainless steel (an spontaneous increase of the electrochemical potential). We previously observed a critical temperature set between 30°C and 40°C for the seawater in Brest (France) above which the ennoblement is no longer observed. Therfore we set up an experiment in which we exposed stainless steel to a range of temperature and collect the bacteria that have settled on the surface of the metal.
 
- 
-The temperature tested were 30, 33, 36, 38 and 40°C, with five replicates per conditions. 
-Only three seawater tanks were available at the time of the expirement, so only three temperature tested simultanously, but each time with the 30°C conditions to ensure reproducibility
- 
 
 **About raw data**
 Raw data are in the `preprocess` directory. They are already demultiplexed 
